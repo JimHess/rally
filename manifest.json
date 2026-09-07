@@ -1,0 +1,19 @@
+{
+  "name": "Rally",
+  "short_name": "Rally",
+  "description": "Rewards for real life — chores, grades, movement, volunteering, low screen time, and hanging out without phones.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#122017",
+  "theme_color": "#122017",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
